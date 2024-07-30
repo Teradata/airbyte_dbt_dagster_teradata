@@ -45,6 +45,6 @@ models:
           - name: average_age
             tests:
                 - not_null
-          - name: user_count
+          - name: customer_count
             tests:
                 - not_null
